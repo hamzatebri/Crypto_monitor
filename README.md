@@ -1,6 +1,5 @@
-Okay, here's a comprehensive README.md file for your "Crypto Monitor" Streamlit application. This README is designed to be detailed, informative, and professional, covering all aspects mentioned in your project guidelines.
-
 Crypto Monitor: Your Comprehensive Cryptocurrency Analysis & Alert Platform
+
 📊 Project Overview
 Crypto Monitor is an interactive Streamlit web application designed to provide users with essential tools for monitoring, analyzing, and staying informed about the dynamic cryptocurrency market. From real-time market data and advanced technical analysis to news sentiment and personalized price alerts, this platform aims to be a go-to resource for investors, traders, and crypto enthusiasts.
 
