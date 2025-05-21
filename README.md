@@ -190,4 +190,4 @@ Enhanced UI/UX: Further refinement of the user interface for even greater intuit
 This project is developed by a team of 5 students as a final project.
 For any questions, feedback, or support, please contact: support@cryptomonitor.com
 
-Made with ❤️ by [Hamza Tebri]
+Made with ❤️ by Hamza Tebri
